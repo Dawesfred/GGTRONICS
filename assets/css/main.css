@@ -436,6 +436,29 @@ h6 {
   .mobile-nav-active .navmenu>ul {
     display: block;
   }
+
+
+
+
+
+
+.logo img {
+  max-width: 40px;
+  height: auto;
+}
+
+.logo h1.sitename {
+  font-size: 15px;
+  margin-left: 10px;
+  white-space: nowrap;
+}
+
+.logo span {
+  font-size: 20px;
+  margin-left: 4px;
+}
+
+  
 }
 
 
